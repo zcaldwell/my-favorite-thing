@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FF0106;
+    font-family: 'Crimson Text';
+}
+    
+img {
+    width: 100%;
+    max-width: 700px;
+    border: 6px solid #000000;
+}
